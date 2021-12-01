@@ -6,6 +6,12 @@
       <excludeFolder url="file://$MODULE_DIR$/day1/task1/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/day1/task1/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/day1/task1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/task2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/task2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/task2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
