@@ -15,6 +15,9 @@
       <excludeFolder url="file://$MODULE_DIR$/day2/build" />
       <excludeFolder url="file://$MODULE_DIR$/day2/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/day2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day3/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
